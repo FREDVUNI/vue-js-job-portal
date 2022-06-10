@@ -1,4 +1,4 @@
-# twitter-tutorial
+# job portal application
 
 ## Project setup
 ```
